@@ -1,0 +1,9 @@
+*{margin: 0;}
+
+#para{padding: 20px;text-align: center;}
+
+.btns{text-align: center;margin-top: 10px;}
+
+.showPic{text-align: center;}
+
+#pic{visibility: hidden;}
